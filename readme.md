@@ -4,6 +4,8 @@ Functional css for humans.
 
 Quickly build and design new UI without writing css.
 
+Contains edits specific to egghead.io
+
 ## Principles
 
 * Everything should be 100% responsive
